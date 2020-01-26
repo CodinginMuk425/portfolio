@@ -1,22 +1,9 @@
-.titles {
+.titles h1{
     color: blue;
     font-style: italic;
 }
-h1 {
-    color: blue;
-    text-align: center;
-  }
-  
-  h2 {
+.titles h2 {
     font-style: italic;
     text-align: center;
     color: teal;
-  }
-  
-  p {
-    color: gray;
-  }
-  
-  body {
-    background-color: skyblue;
-  }
+}
