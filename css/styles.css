@@ -3,8 +3,16 @@ h1{
     font-style: italic;
     text-align: center;
 }
-.titles h2 {
+h2 {
     font-style: italic;
     text-align: center;
     color: teal;
-}
+  }
+  
+  p {
+    color: gray;
+  }
+  
+  body {
+    background-color: skyblue;
+  }
