@@ -1,6 +1,7 @@
-.titles h1{
+h1{
     color: blue;
     font-style: italic;
+    text-align: center;
 }
 .titles h2 {
     font-style: italic;
