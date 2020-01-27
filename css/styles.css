@@ -1,4 +1,4 @@
-h1{
+h1 {
     color: blue;
     font-style: italic;
     text-align: center;
@@ -9,10 +9,19 @@ h2 {
     color: teal;
   }
   
-  p {
-    color: gray;
+ p {
+    color: rgb(53, 52, 52);
   }
   
   body {
     background-color: skyblue;
+  }
+
+  .list {
+      color: red;
+      font-family: sans-serif;
+  }
+
+  img {
+      float: left;
   }
