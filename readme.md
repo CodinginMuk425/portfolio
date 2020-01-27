@@ -21,7 +21,7 @@ _This is the first graded assignment for our Epicodus course. It will include HT
 
 ## Known Bugs
 
-_Work in Progress, no bugs reported at this time._
+_Currently there is a white line across the top of my page. This was included with the navigation code. I am currently attempting to fix the error._
 
 ## Support and contact details
 
@@ -32,5 +32,9 @@ _If issues are tracked with the site, please reach out to the developer of the s
 * _HTML_
 * _CSS_
 * _Bootstrap_
+
+## Site Link
+
+_https://codinginmuk425.github.io/portfolio/#_
 
 Copyright (c) 2020 **_Ramy Carter, Alpenglow Digital_**
